@@ -1,0 +1,24 @@
+.banner{
+    background-image: url(images/4-uwm-hero.jpg);
+    padding-bottom: 300px;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    
+
+
+}
+
+
+
+.h2{
+    padding-top: 50px;
+
+}
+
+
+
+.colophon{
+    background-color: rgb(255, 215, 0);
+    padding: 20px;
+
+}
